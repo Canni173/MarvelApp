@@ -1,0 +1,53 @@
+E:\Projects\MarvelApp\MarvelUI\bin\Debug\MarvelUI.exe.config
+E:\Projects\MarvelApp\MarvelUI\bin\Debug\MarvelUI.exe
+E:\Projects\MarvelApp\MarvelUI\bin\Debug\MarvelUI.pdb
+E:\Projects\MarvelApp\MarvelUI\bin\Debug\MarvelLib.dll
+E:\Projects\MarvelApp\MarvelUI\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\MarvelApp\MarvelUI\bin\Debug\MarvelLib.pdb
+E:\Projects\MarvelApp\MarvelUI\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csprojAssemblyReference.cache
+E:\Projects\MarvelApp\MarvelUI\obj\Debug\MarvelUI.Form1.resources
+E:\Projects\MarvelApp\MarvelUI\obj\Debug\MarvelUI.Properties.Resources.resources
+E:\Projects\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csproj.GenerateResource.cache
+E:\Projects\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csproj.CoreCompileInputs.cache
+E:\Projects\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csproj.CopyComplete
+E:\Projects\MarvelApp\MarvelUI\obj\Debug\MarvelUI.exe
+E:\Projects\MarvelApp\MarvelUI\obj\Debug\MarvelUI.pdb
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\MarvelUI.exe.config
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\MarvelUI.exe
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\MarvelUI.pdb
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\MarvelLib.dll
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\MarvelLib.pdb
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csprojAssemblyReference.cache
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\obj\Debug\MarvelUI.Form1.resources
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\obj\Debug\MarvelUI.Properties.Resources.resources
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csproj.GenerateResource.cache
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csproj.CoreCompileInputs.cache
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csproj.CopyComplete
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\obj\Debug\MarvelUI.exe
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\obj\Debug\MarvelUI.pdb
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\EntityFramework.dll
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\EntityFramework.xml
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\MarvelUI.exe.config
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\MarvelUI.exe
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\MarvelUI.pdb
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\EntityFramework.dll
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\MarvelLib.dll
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\MarvelLib.pdb
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\EntityFramework.xml
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csprojAssemblyReference.cache
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\obj\Debug\MarvelUI.Form1.resources
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\obj\Debug\MarvelUI.Properties.Resources.resources
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csproj.GenerateResource.cache
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csproj.CoreCompileInputs.cache
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\obj\Debug\MarvelUI.csproj.CopyComplete
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\obj\Debug\MarvelUI.exe
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelUI\obj\Debug\MarvelUI.pdb

@@ -1,0 +1,12 @@
+E:\Projects\MarvelApp\MarvelConsoleTest\bin\Debug\MarvelConsoleTest.exe.config
+E:\Projects\MarvelApp\MarvelConsoleTest\bin\Debug\MarvelConsoleTest.exe
+E:\Projects\MarvelApp\MarvelConsoleTest\bin\Debug\MarvelConsoleTest.pdb
+E:\Projects\MarvelApp\MarvelConsoleTest\bin\Debug\MarvelLib.dll
+E:\Projects\MarvelApp\MarvelConsoleTest\bin\Debug\MarvelLib.pdb
+E:\Projects\MarvelApp\MarvelConsoleTest\obj\Debug\MarvelConsoleTest.csprojAssemblyReference.cache
+E:\Projects\MarvelApp\MarvelConsoleTest\obj\Debug\MarvelConsoleTest.csproj.CoreCompileInputs.cache
+E:\Projects\MarvelApp\MarvelConsoleTest\obj\Debug\MarvelConsoleTest.csproj.CopyComplete
+E:\Projects\MarvelApp\MarvelConsoleTest\obj\Debug\MarvelConsoleTest.exe
+E:\Projects\MarvelApp\MarvelConsoleTest\obj\Debug\MarvelConsoleTest.pdb
+E:\Projects\MarvelApp\MarvelConsoleTest\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\MarvelApp\MarvelConsoleTest\bin\Debug\Newtonsoft.Json.xml

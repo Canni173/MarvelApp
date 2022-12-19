@@ -1,0 +1,27 @@
+E:\Projects\MarvelApp\MarvelLib\bin\Debug\MarvelLib.dll
+E:\Projects\MarvelApp\MarvelLib\bin\Debug\MarvelLib.pdb
+E:\Projects\MarvelApp\MarvelLib\obj\Debug\MarvelLib.csprojAssemblyReference.cache
+E:\Projects\MarvelApp\MarvelLib\obj\Debug\MarvelLib.csproj.CoreCompileInputs.cache
+E:\Projects\MarvelApp\MarvelLib\obj\Debug\MarvelLib.dll
+E:\Projects\MarvelApp\MarvelLib\obj\Debug\MarvelLib.pdb
+E:\Projects\MarvelApp\MarvelLib\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\MarvelApp\MarvelLib\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\MarvelApp\MarvelLib\obj\Debug\MarvelLib.csproj.CopyComplete
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelLib\bin\Debug\MarvelLib.dll
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelLib\bin\Debug\MarvelLib.pdb
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelLib\obj\Debug\MarvelLib.csprojAssemblyReference.cache
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelLib\obj\Debug\MarvelLib.csproj.CoreCompileInputs.cache
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelLib\obj\Debug\MarvelLib.csproj.CopyComplete
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelLib\obj\Debug\MarvelLib.dll
+C:\Users\chuev\OneDrive\Рабочий стол\MarvelApp\MarvelLib\obj\Debug\MarvelLib.pdb
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelLib\bin\Debug\MarvelLib.dll
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelLib\bin\Debug\MarvelLib.pdb
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelLib\obj\Debug\MarvelLib.csprojAssemblyReference.cache
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelLib\obj\Debug\MarvelLib.csproj.CoreCompileInputs.cache
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelLib\obj\Debug\MarvelLib.csproj.CopyComplete
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelLib\obj\Debug\MarvelLib.dll
+C:\Users\jaten\Downloads\MarvelApp (1)\MarvelApp\MarvelLib\obj\Debug\MarvelLib.pdb
